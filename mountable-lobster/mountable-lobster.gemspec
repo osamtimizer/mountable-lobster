@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Mountable::Lobster::VERSION
   spec.authors     = ["ikaruga"]
   spec.email       = ["ikaruga777@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Mountable::Lobster."
-  spec.description = "TODO: Description of Mountable::Lobster."
+  spec.homepage    = "https://ikaruga.org"
+  spec.summary     = "mount Lobster"
+  spec.description = "mount Lobster"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
